@@ -1,8 +1,6 @@
-사용법..
+### wkhtmltopdf다운로드 필요
 
-1. wkhtmltopdf.exe 파일 위치 설정
-path_to_wkhtmltopdf = r"C:\\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe"
+[wkhtmltopdf](https://wkhtmltopdf.org/downloads.html)
 
-2. 메인 콘텐츠 div 찾기
-target_div = soup.find("div", class_="tt_article_useless_p_margin contents_style")
-class 부분 변경
+***
+htmltopdf.exe  [Download Here](https://github.com/rhd3/htmltopdf/blob/main/dist/htmltopdf.exe)
